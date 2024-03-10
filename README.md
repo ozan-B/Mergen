@@ -7,9 +7,9 @@ __*Information Gathering Tool*__
 
 # :inbox_tray: Installation :inbox_tray:
 
-    git clone https://github.com/ozan-B/MERGEN.git
+    git clone https://github.com/ozan-B/Mergen.git
 
-    cd MERGEN
+    cd Mergen
 
     python3 setup.py
 
