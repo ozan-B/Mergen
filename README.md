@@ -43,7 +43,7 @@ __*Information Gathering Tool*__
 # :pencil: Description :pencil:
 
 ## **<span style="color:green">1. Find Social Account** :</span>   
-* *Girilen kullanıcı adı  için tüm sosyal medya hesaplarını tarar*
+* *Girilen kullanıcı adı  için tüm sosyal medya hesaplarını tarar. Ve başarılı olan  tarama sonuçlarını kullanıcı adı ile aynı isimde bir txt dosyasına kaydeder . Tekrar bu kullanıcı adı ile işlem yapacak olursanız eski txt dosyasını siler ve yeni bir txt dosyası oluşturup başarılı sonuçları bunun içine yazar  *
 
 
 
